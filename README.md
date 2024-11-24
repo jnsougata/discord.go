@@ -1,4 +1,4 @@
-# interactions.go
+# discord.go
 Discord HTTP Interaction API Wrapper for Serverless Applications
 
 ## Work In Progress
